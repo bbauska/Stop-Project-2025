@@ -3,7 +3,7 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 is the blueprint for Trump and MAGA Republicans to gut checks and balances so that
 they can take over the government, impose their agenda, and control every American. They plan
-to use this unchecked power to ban abortion nationwide, sell out the middle class, end Social
+to use this unchecked power to ban abortion nationwide, sell out the middle class, end Social`	
 Security and Medicare as we know it, and control the rest of our lives.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
