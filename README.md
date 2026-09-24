@@ -10,8 +10,10 @@ take a fifth of the upside while you shoulder the bulk of the downside volatilit
 Many hedge funds charge a 2% management fee (which takes a slice of your total money every year regardless 
 of whether they make or lose you anything) and a 20% performance fee on any profits.
 
-## Vance's experience; 4 years marines, elected senate with 15 million & a lot of lies handed to him 
-## by American oligarch Peter Thiel (slimy billionaire)
+## Vance's experience; 
+  + 4 years marines, 
+  + elected senate with 15 million & a lot of lies handed to him by American oligarch Peter Thiel (slimy billionaire).
+
 https://www.project2025.observer/en
 
 superusers; hegseth, trump and financial dickhead.
