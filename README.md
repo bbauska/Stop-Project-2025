@@ -1,12 +1,19 @@
-Hegseth, Trump, Vance and Minister of Finance, Scott Bessent (sec of the treasury). More
-like an oligarch from Putin's Russia. Profiting on other's misery. Just like Trump & his family. His
+## Hegseth, Trump, Vance and Minister of Finance, Scott Bessent (sec of the treasury). 
+More like an oligarch from Putin's Russia. Profiting on other's misery. Just like Trump & his family. Bessent's 
 experience; Hedge fund manager.
-What does a hedge fund manager do?
-Heads They Win, Tails You Lose: If the manager makes a massive risk and loses half your money, they 
+## What does a hedge fund manager do?
+### Heads They Win, Tails You Lose: 
+If the manager makes a massive risk and loses half your money, they 
 still pocket millions from the annual management fee. If they get lucky and make a big return, they 
 take a fifth of the upside while you shoulder the bulk of the downside volatility.
+### The "2 and 20" Rule: 
+Many hedge funds charge a 2% management fee (which takes a slice of your total money every year regardless 
+of whether they make or lose you anything) and a 20% performance fee on any profits.
 
+## Vance's experience; 4 years marines, elected senate with 15 million & a lot of lies handed to him 
+## by American oligarch Peter Thiel (slimy billionaire)
 https://www.project2025.observer/en
+
 superusers; hegseth, trump and financial dickhead.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
