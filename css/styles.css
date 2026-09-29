@@ -1,4 +1,4 @@
-<!-- ./css/styles.css of/for Stop-Project2025.bauska.org -->
+<!-- ./css/styles.css of/for Stop-Project-2025.bauska.org -->
 * {
   box-sizing: border-box;
 }
@@ -172,7 +172,7 @@ article {
   text-transform: uppercase;
 }
 .intro {
-  background-image: url(../images/Flying_Saucer_Conspiracy-2.jpg);
+  background-image: url(../images/Stop_Project_2025.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -180,7 +180,7 @@ article {
 
 @media (min-width: 768px) {
   .intro {
-    background-image: url(../images/Flying_Saucer_Conspiracy.jpg);
+    background-image: url(../images/Stop_Project_2025.jpg);
     background-position: center 20%;
   }
 }
