@@ -200,7 +200,12 @@ p:first-of-type:first-letter {
   text-transform: uppercase;
 }
 
-ul.two-columns {
-  column-count: 2;
-  column-gap: 20px; /* Optional spacing between columns */
+.two-column-list {
+  list-style-type: none;
+  columns: 2;
+  padding: 0;
+  margin: 0;
+}
+.two-column-list li {
+  margin-bottom: 8px;
 }
