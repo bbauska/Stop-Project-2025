@@ -120,8 +120,12 @@ body,
   color: #fff;
 }
 
-/* Individual effects */
+ul.two-columns {
+  column-count: 2;
+  column-gap: 20px; /* Optional spacing between columns */
+}
 
+/* Individual effects */
 /* Effect 1: Slide in on top */
 .st-effect-1.st-menu {
   visibility: visible;
