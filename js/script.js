@@ -1,37 +1,26 @@
-<!--
-Inspired from: https://tympanus.net/codrops/2013/08/28/transitions-for-off-canvas-navigations/
-there are still some quirks for animation 3, 6, 7, 8 & 14 
-as they do not animate back gracefully  
-(those are the navs in the div with class st-pusher)
--->
+/* /js/script.js of Stop-Project-2025 for stop-project-2025.bauska.org */
+/* hide these elements on page load */
+$('#main-menu, .menu-close').hide();
 
-var click = document.querySelectorAll('div button');
-var menu = document.querySelector('#st-container');
-var pusher = document.querySelector('.st-pusher');
-/* To store the corresponding effect */
-var effect;
+/* open menu on menu open click */
+$('.menu-open').on('click', function(e) {
+  e.preventDefault();
+  $('#main-menu').slideDown();
+  $('.menu-open').hide();
+  $('.menu-close').show();
+});
 
-/* Adding a click event to all the buttons */
-for (var i = 0; i < click.length; i++) {
-  click[i].addEventListener('click', addClass)
-}
+/* close menu on menu close or link click */
+$('.menu-close').on('click', function(e) {
+  e.preventDefault();
+  $('#main-menu').slideUp();
+  $('.menu-open').show();
+  $('.menu-close').hide();
+});
 
-pusher.addEventListener('click', closeMenu);
-
-function addClass(e) {
-  /* To get the correct effect */
-  effect = e.target.getAttribute('data-effect');
-  /* Adding the effects */
-  menu.classList.toggle(effect);
-  menu.classList.toggle('st-menu-open');
-  /* console.log(e.target.getAttribute('data-effect')); */
-}
-
-function closeMenu(el) {
-  /* if the click target has this class then we close the menu by removing all the classes */
-  if (el.target.classList.contains('st-pusher')) {
-    menu.classList.toggle(effect);
-    menu.classList.toggle('st-menu-open');
-    /* console.log(el.target); */
-  } 
-}
+/* close menu on menu close or link click */
+$('#main-menu a').on('click', function() {
+  $('#main-menu').slideUp();
+  $('.menu-open').show();
+  $('.menu-close').hide();
+});
