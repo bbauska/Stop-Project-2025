@@ -172,7 +172,7 @@ article {
   text-transform: uppercase;
 }
 .intro {
-  background-image: url(../images/Stop_Project_2025_Snapshot.png);
+  background-image: url(../images/New_Stop_Project_2025_Snapshot.png);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -180,7 +180,7 @@ article {
 
 @media (min-width: 768px) {
   .intro {
-    background-image: url(../images/Stop_Project_2025_Snapshot.png);
+    background-image: url(../images/New_Stop_Project_2025_Snapshot.png);
     background-position: center 20%;
   }
 }
