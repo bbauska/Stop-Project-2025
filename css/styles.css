@@ -109,26 +109,26 @@ article {
 
 .chapter-masthead {
   text-align: center;
-  padding-top: 2rem;
+  padding-top: 1.25rem;  /* 2rem; */
 }
 .chapter-heading {
   font-size: 2rem;
-  padding: 2rem 0 1rem;
+  padding: 1.5rem 0 1rem;  /* 2rem 0 1rem; */
 }
 .chapter-sub {
-  padding-bottom: 1rem;
+  padding-bottom: 0.5rem;  /* 1rem; */
   text-transform: uppercase;
-  font-size: 0.9rem;
+  font-size: 1.25rem;  /* 0.9rem; */
 }
 .chapter-sub2 {
   padding-bottom: 1rem;
-  font-size: 0.9rem;
+  font-size: 1.1rem;  /* 0.9rem; */
 }
 #main-menu {
   background: #eee;
   text-align: center;
-  padding: 2rem 0 0;
-  margin-bottom: 2rem;
+  padding: 1.5rem 0 0;  /* 2rem; */
+  margin-bottom: 1.5rem;  /* 2rem; */
   height: 40vh;
   position: fixed;
   bottom: 0;
